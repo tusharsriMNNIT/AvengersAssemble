@@ -150,3 +150,8 @@
 - Bio: I like to play games and code them out . 
 - GitHub: [Sahaj Bamba](https://github.com/Sahaj-Bamba)
 
+#### Name: [Tushar Srivastava](https://github.com/tusharsriMNNIT)
+- Place: Lucknow, UP, India
+- Bio: I like to play games and code them out . 
+- GitHub: [Tushar Srivastava](https://github.com/tusharsriMNNIT)
+
